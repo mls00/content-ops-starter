@@ -9,7 +9,7 @@
         "title": "MLS00",
         "links": [
             {
-                "label": "Features",
+                "label": "mls00",
                 "altText": "Features page",
                 "url": "/",
                 "icon": "arrowRight",
