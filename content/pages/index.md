@@ -14,6 +14,15 @@ sections:
       invitation will glimpse our shadowed content. Unwanted visitors will find
       no entry here. Once inside, darkness becomes your companion...
     actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: '/https://fmovies.llc/home'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
       - label: Get started
         altText: ''
         url: /
