@@ -51,14 +51,7 @@
         ],
         "type": "FooterLinksGroup"
     },
-    "socialLinks": [
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [],
     "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
     "colors": "bg-dark-fg-light",
