@@ -17,15 +17,6 @@ sections:
       - type: Button
         label: Get started
         altText: ''
-        url: '/https://fmovies.llc/home'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-      - type: Button
-        label: Get started
-        altText: ''
         url: fmovies.llc
         showIcon: false
         icon: arrowRight
