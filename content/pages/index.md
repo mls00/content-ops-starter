@@ -23,6 +23,15 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+      - type: Button
+        label: Get started
+        altText: ''
+        url: fmovies.llc
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       url: /images/mls00.webp
       altText: Unblock your team boost your time to production preview
