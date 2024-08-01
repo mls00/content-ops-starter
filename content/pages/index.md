@@ -13,7 +13,16 @@ sections:
       service—it's a gateway reserved for the select few. Only those with an
       invitation will glimpse our shadowed content. Unwanted visitors will find
       no entry here. Once inside, darkness becomes your companion...
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: 'https://fmovies.llc/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       url: /images/mls00.webp
       altText: Unblock your team boost your time to production preview
