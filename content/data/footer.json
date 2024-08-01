@@ -28,20 +28,6 @@
         ],
         "type": "FooterLinksGroup"
     },
-    "secondaryLinks": {
-        "title": "mls streaming technologies",
-        "links": [
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
     "socialLinks": [],
     "legalLinks": [],
     "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
