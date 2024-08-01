@@ -7,7 +7,7 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: MLS Streaming Technologies
+    subtitle: Ditch the BS...
     text: >
       Welcome to MLS, where the forbidden thrives. This is no ordinary streaming
       service—it's a gateway reserved for the select few. Only those with an
