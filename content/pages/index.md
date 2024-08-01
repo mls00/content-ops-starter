@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: MLS Streaming Technologies
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Welcome to MLS, where the forbidden thrives. This is no ordinary streaming
+      service—it's a gateway reserved for the select few. Only those with an
+      invitation will glimpse our shadowed content. Unwanted visitors will find
+      no entry here. Once inside, darkness becomes your companion...
     actions:
       - label: Get started
         altText: ''
